@@ -3,9 +3,6 @@
 This is a core part of the custom cache for USDC, USDT, and WSOL trading. You can continue adding more markets, especially if you use intermediate tokens.
 This [JSON file](market-cache.json) contains 176 DEX markets:
 
->[!TIP]
->Need a custom market cache for specific tokens? https://t.me/SolanaArbitrager
-
 ### Meteora DLMM 43 markets
 `LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo`
  - USDC-SOL 29
