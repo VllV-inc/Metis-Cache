@@ -92,7 +92,7 @@ This [JSON file](market-cache.json) contains 176 DEX markets:
  - USDC-USDT 1
  - USDT-SOL 1
 
-### GoonFi V2 3 markets
+### GoonFi V2 3 markets (Vote acc)
 `goonuddtQRrWqqn5nFyczVKaie28f3kDkHWkHtURSLE`
  - USDC-SOL 1
  - USDC-USDT 1
@@ -103,7 +103,7 @@ This [JSON file](market-cache.json) contains 176 DEX markets:
  - USDC-SOL 1
  - USDC-USDT 1
 
-### BisonFi 2 markets
+### BisonFi 2 markets (Vote acc)
 `BiSoNHVpsVZW2F7rx2eQ59yQwKxzU5NvBcmKshCSUypi`
  - USDC-SOL 1
  - USDT-SOL 1
